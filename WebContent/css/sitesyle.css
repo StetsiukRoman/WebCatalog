@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+.banner
+{
+    background-color:#a64d00;
+    height:75px;
+    width:600px;
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+}
+
+.defaultText
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:12px;
+}
+
+.textNormal
+{
+    font-weight:normal;
+}
+
+.textBold
+{
+    font-weight:bold;
+}
+
+.container
+{
+    width:600px;
+    float:left;
+}
+
+.content
+{
+    float:left;
+    width:475px;
+    padding:5px 0px 5px 5px;
+    margin:0px 0px 0px 0px;
+
+}
